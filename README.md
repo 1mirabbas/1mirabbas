@@ -1,40 +1,32 @@
-# Hi, I'm Mirabbas 👋
+# Mirabbas Aghalarov 
 
-👨‍💻 **Cybersecurity Researcher | Web & Mobile Security Enthusiast**  
-🔎 Focused on **CVE research, vulnerability PoCs, open-source security, and reverse engineering**  
-🌐 Based in **Azerbaijan** | Sharing knowledge and educational security content  
+**Cybersecurity Researcher | Web & Mobile Security**
 
----
+I'm interested in vulnerability research, reverse engineering, and application security. I focus on analyzing real-world vulnerabilities and creating educational PoCs.
 
-## 🛠 What I Do
-- **Web Application Security** – CMS, blogging platforms, and open-source apps  
-- **Vulnerability Research** – XSS, RCE, IDOR, SSRF, and other CVEs  
-- **Mobile Security & Reverse Engineering** – analyzing apps, finding bugs, PoCs  
-- **Open Source Contributions** – publishing responsibly disclosed PoCs  
+## 🔐 Areas of Interest
 
----
+- Web Application Security
+- Mobile Application Security
+- Vulnerability Research & CVEs
+- Reverse Engineering
+- Security PoCs
+- Open-Source Security
 
-## 📂 Featured Repositories
-- [`mirabbas-cve-disclosures`](https://github.com/1mirabbas/mirabbas-cve-disclosures) – Curated 2023 CVEs with PoC and analysis  
-- [`Telegram-Premium-Patcher`](https://github.com/1mirabbas/Telegram-Premium-Patcher) – Mobile app patching tool (educational purposes)  
+## 📂 Featured Projects
 
-*(Check out more repositories on my [GitHub](https://github.com/1mirabbas))*
+- **[mirabbas-cve-disclosures](https://github.com/1mirabbas/mirabbas-cve-disclosures)** — CVE research, PoCs, and vulnerability analysis
+- **[Telegram-Premium-Patcher](https://github.com/1mirabbas/Telegram-Premium-Patcher)** — Mobile application patching research
 
----
+[View all repositories →](https://github.com/1mirabbas)
 
+## 🔎 Security Research
 
-## 🔎 CVE & Exploit Records
-Official security research links:  
+- [CVE.org](https://www.cve.org/CVERecord/SearchResults?query=mirabbas) — CVE records associated with my research
+- [Exploit-DB](https://www.exploit-db.com/?author=11833) — Published security PoCs
 
-- **CVE.org Search:** [CVE.org](https://www.cve.org/CVERecord/SearchResults?query=mirabbas)  
-  *Search CVE IDs associated with my name.*
+## 📫 Contact
 
-- **Exploit‑DB Author Page:** [Exploit-DB](https://www.exploit-db.com/?author=11833)  
-  *Proof-of-Concepts credited to my author ID.*
+- [LinkedIn](https://www.linkedin.com/in/mirabbas-a%C4%9Falarov-391184390/)
 
----
-
-## 📬 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/mirabbas-a%C4%9Falarov-391184390/)  
-
-> ⚠️ All security research is done responsibly and for **educational / defensive purposes only. Misuse is strongly discouraged.**
+> Security research is conducted for educational and defensive purposes. Please use this information responsibly.
