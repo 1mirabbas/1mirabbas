@@ -1,6 +1,6 @@
 # Mirabbas Aghalarov 
 
-**Cybersecurity Researcher | Web & Mobile Security**
+**Vulnerability Researcher | Web & Mobile Security**
 
 I'm interested in vulnerability research, reverse engineering, and application security. I focus on analyzing real-world vulnerabilities and creating educational PoCs.
 
