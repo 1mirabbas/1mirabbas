@@ -18,7 +18,7 @@ I'm interested in vulnerability research, reverse engineering, and application s
 - **[mirabbas-cve-disclosures](https://github.com/1mirabbas/mirabbas-cve-disclosures)** — CVE research, PoCs, and vulnerability analysis
 - **[Telegram-Premium-Patcher](https://github.com/1mirabbas/Telegram-Premium-Patcher)** — Mobile application patching research
 
-[View all repositories →](https://github.com/1mirabbas)
+[View all repositories →](https://github.com/1mirabbas](https://github.com/1mirabbas?tab=repositories)
 
 ## 🔎 Security Research
 
